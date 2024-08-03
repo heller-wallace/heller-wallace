@@ -221,7 +221,7 @@ a.menu {
     line-height: 1.5;
 }
 .container p{
-    font-size: small;
+    font-size: x-small;
 }
 .bars {
     color:rgb(255, 50, 50);
@@ -332,7 +332,7 @@ a.menu {
     #crafts {
         font-size: small;
     }
-    p {font-size: small;}
+    p {font-size: x-small;}
 }
 
 /* PHONE LANDSCAPE DENY */
