@@ -273,6 +273,7 @@ a.menu {
 
 /* @media (max-width: 999px) { */
 @media (orientation: portrait) {
+    /*p {font-size: 1rem;}*/
     #prologue {
         display:none;
     }
