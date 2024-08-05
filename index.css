@@ -329,7 +329,7 @@ a.menu {
     h2 {
         font-size: 1rem;
     }
-    #crafts {
+    .crafts {
         font-size: small;
     }
     p {font-size: x-small;}
