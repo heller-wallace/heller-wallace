@@ -9,7 +9,18 @@
 
 <url>
   <loc>https://hellerwallace.com/</loc>
-  <lastmod>2024-09-17T14:32:29+00:00</lastmod>
+  <lastmod>2024-11-06T21:32:18+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://hellerwallace.com/downloads/Trato%20de%20Novios%20PRESS%20KIT%20English.pdf</loc>
+  <lastmod>2024-11-06T21:32:18+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://hellerwallace.com/downloads/Trato%20de%20Novios%20DOSIER%20DE%20PRENSA%20Espa%C3%B1ol.pdf</loc>
+  <lastmod>2024-11-06T21:32:18+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
