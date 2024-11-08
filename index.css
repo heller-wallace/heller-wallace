@@ -335,7 +335,7 @@ a.menu {
         border-radius:100px;
     }
     #middle h1 {
-        font-size: 7vmin;
+        font-size: 6vmin;
         color: rgb(255, 255, 255);
         }     
     #footer {
@@ -371,7 +371,7 @@ a.menu {
         display: block;
     }
     h2 {
-        font-size: 1rem;
+        font-size: 0.7rem;
     }
     p {font-size: x-small;}
 }
