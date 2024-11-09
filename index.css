@@ -371,7 +371,7 @@ a.menu {
         display: block;
     }
     h2 {
-        font-size: 0.7rem;
+        font-size: small;
     }
     p {font-size: x-small;}
 }
